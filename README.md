@@ -37,3 +37,9 @@ The system displays the generated responses, allowing users to quickly and accur
 
 ## Acknowledgments
 The project acknowledges and utilizes the OpenAI API. For in-depth information on the API's capabilities and usage, consult the OpenAI documentation.
+
+# output of this project
+
+
+https://github.com/BHEESETTIANAND/LLm-Q-A-project/assets/101445444/0cf4b7ef-df84-487a-a1c5-11d3327890b7
+
